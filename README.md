@@ -2,7 +2,7 @@
 
 🎓 Estudante de Técnico em Informática no IFNMG e desenvolvedor em formação.
 
-Atualmente, estou focado em aprender e desenvolver projetos nas áreas de **desenvolvimento web, backend e engenharia de software**.
+Atualmente, estou focado em aprender e desenvolver projetos nas áreas de **desenvolvimento web e backend**.
 
 ## 🚀 Tecnologias e áreas de estudo
 
@@ -47,8 +47,6 @@ Portal de notícias sobre tecnologia desenvolvido com foco em responsividade e o
 * C# e .NET
 * SQL
 * Desenvolvimento Mobile
-* APIs e desenvolvimento backend
-* Arquitetura de software
 
 ---
 
