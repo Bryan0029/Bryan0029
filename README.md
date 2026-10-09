@@ -11,7 +11,6 @@ Atualmente, estou focado em aprender e desenvolver projetos nas áreas de **dese
 * **Desenvolvimento Web**
 * **Desenvolvimento Mobile**
 * **Programação Orientada a Objetos**
-* **Engenharia de Software**
 
 ## 📌 Projetos em destaque
 
